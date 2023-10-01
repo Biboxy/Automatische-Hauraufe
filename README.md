@@ -1,0 +1,2 @@
+# Automatische-Hauraufe
+Zeitgesteuerte Heuraufe
