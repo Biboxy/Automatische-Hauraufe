@@ -1,2 +1,2 @@
-# Automatische-Hauraufe
+# Automatische-Heuraufe
 Zeitgesteuerte Heuraufe
